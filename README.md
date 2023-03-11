@@ -181,12 +181,12 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   Define terms and link to docs.github.com.
 -->
 
-<details id=5 open>sdssds
+<details id=5>
 <summary><h2>Step 5: Apply suggested changes</h2></summary>
 
-_Nicely done suggesting changeees! :partying_face:_
+_Nicely done suggesting changes! :partying_face:_
 
-Now let's see how easy it is to [apply your suggestionnn](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request).
+Now let's see how easy it is to [apply your suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request).
 
 ### :keyboard: Activity: Apply suggested changes
 
